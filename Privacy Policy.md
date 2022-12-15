@@ -21,3 +21,7 @@ The use of the Bot is not permitted for minors under the age of 13, or under the
 ## Questions
 
 If you have any questions or are concerned about what data might be being stored from your account `contact us`. For more information check the [Discord Terms Of Service](https://discord.com/terms).
+
+## Last Updated
+
+**This was last updated on 12/15/22 at 11:42 AM EST.**
