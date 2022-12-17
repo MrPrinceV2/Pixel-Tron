@@ -1,9 +1,3 @@
-Write a modern privacy policy for a discord bot formatted for github .md 
-
-Bot creator = Izaya Pantovich
-Bot Name = Pixel Tron
-Docs = https://pixel-tron.gitbook.io/pixel-tron/
-
 # Privacy Policy
 
 This Privacy Policy describes how Izaya Pantovich, the creator of the Discord Bot Pixel Tron (the “Bot”) collects, uses, maintains, and discloses information collected from users of the Bot (each, a “User”).
