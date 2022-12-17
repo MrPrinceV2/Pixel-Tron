@@ -1,27 +1,29 @@
+Write a modern privacy policy for a discord bot formatted for github .md 
+
+Bot creator = Izaya Pantovich
+Bot Name = Pixel Tron
+Docs = https://pixel-tron.gitbook.io/pixel-tron/
+
 # Privacy Policy
 
-The use of this application ("Pixel Tron") in a server requires the collection of some specific user data ("Credits, User ID's, Other Datas, & More"). The Data collected includes, but is not limited to Discord user ID values. Use of the Bot is considered an agreement to the terms of this Policy. 
+This Privacy Policy describes how Izaya Pantovich, the creator of the Discord Bot Pixel Tron (the “Bot”) collects, uses, maintains, and discloses information collected from users of the Bot (each, a “User”).
 
-## Access to Data
+## Information Collection and Use
 
-Access to Data is only permitted to Bot's developers, and only in the scope required for the development, testing, and implementation of features for Bot. Data is not sold, provided to, or shared with any third party, except where required by law or a Terms of Service agreement. You can view the data upon request from `our Discord server`.
+Izaya Pantovich is the sole owner of the information collected by the Bot. We only have access to and collect information that User voluntarily give us via the Bot. We will not sell or rent this information to anyone.
 
-## Storage of Data
+We will use the User’s information to respond to inquiries and requests. We will not share User’s information with any third party outside of our organization, other than as necessary to fulfill the requests.
 
-Data is stored securly. The database is secured to prevent external access, however no guarantee is provided and the Bot owners assume no liability for the unintentional or malicious breach of Data. In the event of an unauthorised Data access, users will be notified through the Discord client application.
+## Security
 
-## User Rights
+We take precautions to protect User’s information. When User submit sensitive information via the Bot, their information is protected both online and offline. (We aren't responible for any breached sources.)
 
-At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through the [Discord Server](https://discord.gg/pKPTGKfnX4). You have the right to request the removal of relevant Data.
+## Updates
 
-## Underage Users
+This Privacy Policy may be updated from time to time. We will notify Users of any changes by posting the new Privacy Policy on our website. We will let Users know via email and/or a prominent notice on our website, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.
 
-The use of the Bot is not permitted for minors under the age of 13, or under the age of legal consent for their country. This is in compliance with the [Discord Terms of Service](https://discord.com/terms). No information will be knowingly stored from an underage user. If it is found out that a user is underage we will take all necessary action to delete the stored data.
+## Contact
 
-## Questions
+If User have any questions or suggestions about our Privacy Policy, please contact us at https://discord.gg/pKPTGKfnX4.
 
-If you have any questions or are concerned about what data might be being stored from your account `contact us`. For more information check the [Discord Terms Of Service](https://discord.com/terms).
-
-## Last Updated
-
-**This was last updated on 12/15/22 at 11:42 AM EST.**
+## UPDATED ON 12/17/22
